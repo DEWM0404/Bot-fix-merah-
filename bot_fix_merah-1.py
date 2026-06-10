@@ -32,8 +32,8 @@ from telegram.ext import (
 )
 
 # ─── KONFIGURASI ──────────────────────────────────────────────
-BOT_TOKEN = "ISI_TOKEN_BOT_KAMU"
-ADMIN_IDS = [123456789]  # ganti dengan Telegram ID kamu
+BOT_TOKEN = "8813296506:AAGVaakE0fnltghT8oo15FqVmwZYXPJYabo"
+ADMIN_IDS = [8235197481]  # ganti dengan Telegram ID kamu
 GMAIL_FILE = "gmail_accounts.json"
 CEK_INBOX_INTERVAL = 90
 
